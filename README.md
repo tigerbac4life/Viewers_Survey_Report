@@ -37,7 +37,9 @@ The dashboard covers the following areas:
 
 ## 4. Dashboard Preview
 
-![Data Professional Survey Dashboard](Viewers_Survey_Report.png)
+![Data Professional Survey Dashboard](Survey_Breakdown.jpg)
+
+[View Dashboard Report (PDF)](Survey_Breakdown.pdf)
 
 ## 5. Key Skills Demonstrated
 
@@ -50,5 +52,6 @@ The dashboard covers the following areas:
 ## 6. Project Files
 
 - `Viewers_Survey.xlsx` — Original survey dataset
-- `Viewers_Survey_Report.pdf` — Exported Power BI dashboard
+- `Survey_Breakdown.pdf` — Exported Power BI dashboard
+- `Survey_Breakdown.jpg` — Dashboard preview image
 
